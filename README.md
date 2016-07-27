@@ -1,7 +1,7 @@
 # PiggyBank
 Web application for tracking personal income and expenses
 
-In order to deploy PiggyBank database locally do the following:
+## In order to deploy PiggyBank database locally do the following:
 
 1. Run DBDeploy.bat file from 'DB' folder using command line.
 2. Enter the following parameters as requested by the script:
