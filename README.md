@@ -11,3 +11,11 @@ Web application for tracking personal income and expenses
   - path to the folder with DB scripts (DB\DB_Scripts)
 
 3. The DB deployment log file will be created and stored in DB\DB_Scripts folder.
+
+## Current project state
+  - PiggyBankCore (contains Model and DAL) - actively developed
+  - PiggyBankMvcClient (web client application) - actively developed
+  - PiggyBankDAL (DAL) - not used at the moment
+  - PiggyBankGUI (desktop client application) - not developed at the moment
+
+
