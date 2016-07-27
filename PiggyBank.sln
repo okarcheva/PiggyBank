@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBankCore", "PiggyBankCore\PiggyBankCore.csproj", "{6C62C2DF-FC2F-4349-9DF6-178E7C6FAB84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBankGUI", "PiggyBankGUI\PiggyBankGUI.csproj", "{3235C1E5-AA34-4F30-8E25-DAF12701BE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBankDAL", "PiggyBankDAL\PiggyBankDAL.csproj", "{83F94C8C-9958-4D91-8ED1-DBDA70F1936F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBankMvcClient", "PiggyBankMvcClient\PiggyBankMvcClient.csproj", "{2537F97B-FE49-49FD-BA5F-6585F934D77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C62C2DF-FC2F-4349-9DF6-178E7C6FAB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C62C2DF-FC2F-4349-9DF6-178E7C6FAB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C62C2DF-FC2F-4349-9DF6-178E7C6FAB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C62C2DF-FC2F-4349-9DF6-178E7C6FAB84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3235C1E5-AA34-4F30-8E25-DAF12701BE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3235C1E5-AA34-4F30-8E25-DAF12701BE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3235C1E5-AA34-4F30-8E25-DAF12701BE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3235C1E5-AA34-4F30-8E25-DAF12701BE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F94C8C-9958-4D91-8ED1-DBDA70F1936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F94C8C-9958-4D91-8ED1-DBDA70F1936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F94C8C-9958-4D91-8ED1-DBDA70F1936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F94C8C-9958-4D91-8ED1-DBDA70F1936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2537F97B-FE49-49FD-BA5F-6585F934D77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2537F97B-FE49-49FD-BA5F-6585F934D77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2537F97B-FE49-49FD-BA5F-6585F934D77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2537F97B-FE49-49FD-BA5F-6585F934D77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
