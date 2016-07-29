@@ -8,10 +8,10 @@ using System.Web.Mvc;
 
 namespace PiggyBankMvcClient.Controllers
 {
-    public class CategoriesController : Controller
+    public class CategoriesMvcController : Controller
     {
         private readonly IRepository<Category> _repository;
-        public CategoriesController()
+        public CategoriesMvcController()
         {
             _repository = new CategoryRepository();
         }
